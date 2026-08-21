@@ -6,6 +6,8 @@
 [![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-4.0+-38B2AC.svg)](https://tailwindcss.com/)
 [![Gemini API](https://img.shields.io/badge/Google%20Gen%20AI-Gemini%202.5-orange.svg)](https://ai.google.dev/)
 
+![CymbalMart Party Planner & AI Shopping Agent Preview](./assets/party_shopping_agent.png)
+
 An end-to-end, AI-powered party planning and grocery procurement application built for hosts and shoppers. **CymbalMart Party Planner** translates high-level celebration concepts into fully costed, recipe-accurate culinary blueprints, aisle-by-aisle physical shopping lists, real-time budget recalculation, conversational AI assistance, hands-free voice control, and one-click express fulfillment.
 
 Repository: [https://github.com/ajoys24/Party-Planner-Shopping-Agent](https://github.com/ajoys24/Party-Planner-Shopping-Agent)

@@ -1,0 +1,8 @@
+{
+  "name": "CymbalMart Party Planner",
+  "description": "CymbalMart AI Shopping Agent for busy hosts: define events, auto-generate curated budget-conscious shopping lists with real store aisles, smart substitutions, live budget alignment, and instant fulfillment checkout.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
